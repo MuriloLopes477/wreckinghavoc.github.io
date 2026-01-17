@@ -1,0 +1,15 @@
+<svg width="1280" height="147" viewBox="0 0 1280 147" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="-54.375" y="0.000183105" width="1436.94" height="147.377" rx="18" fill="black"/>
+<mask id="mask0_286_923" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-55" y="0" width="1438" height="148">
+<rect x="-54.375" y="0.000183105" width="1436.94" height="147.377" rx="18" fill="#FF8900"/>
+</mask>
+<g mask="url(#mask0_286_923)">
+<rect width="624" height="55" transform="matrix(0.889257 -0.457407 0.889257 0.457407 903.602 233.247)" fill="#FF8900"/>
+<rect width="624" height="55" transform="matrix(0.889257 -0.457407 0.889257 0.457407 684.457 222.215)" fill="#FF8900"/>
+<rect width="624" height="55" transform="matrix(0.889257 -0.457407 0.889257 0.457407 465.312 211.182)" fill="#FF8900"/>
+<rect width="624" height="55" transform="matrix(0.889257 -0.457407 0.889257 0.457407 246.168 200.15)" fill="#FF8900"/>
+<rect width="624" height="55" transform="matrix(0.889257 -0.457407 0.889257 0.457407 27.0234 189.117)" fill="#FF8900"/>
+<rect width="624" height="55" transform="matrix(0.889257 -0.457407 0.889257 0.457407 -192.121 178.085)" fill="#FF8900"/>
+<rect width="624" height="55" transform="matrix(0.889257 -0.457407 0.889257 0.457407 -411.266 167.052)" fill="#FF8900"/>
+</g>
+</svg>
